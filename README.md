@@ -1,4 +1,5 @@
-Aquí tienes una receta sencilla para preparar turrón de Quaker (o turrón de avena). Es un postre clásico que muchos disfrutan, especialmente en Argentina.
+# Turrón de Quaker
+Receta sencilla para preparar turrón de Quaker (o turrón de avena). Es un postre clásico que muchos disfrutan, especialmente en Argentina.
 
 ### Ingredientes:
 - 250 g de azúcar
@@ -34,4 +35,4 @@ Aquí tienes una receta sencilla para preparar turrón de Quaker (o turrón de a
 6. **Servir:**
    - Una vez frío y firme, corta el turrón en porciones y disfrútalo.
 
-Este turrón es ideal para compartir con amigos y familia. ¡Espero que te guste!# Electronica-Digital-3
+Este turrón es ideal para compartir con amigos y familia. ¡Espero que te guste!
