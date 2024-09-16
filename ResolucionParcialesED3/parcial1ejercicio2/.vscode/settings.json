@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "io.h": "c",
+        "constants.h": "c",
+        "lpc17xx_gpio.h": "c",
+        "lpc17xx_systick.h": "c"
+    }
+}
