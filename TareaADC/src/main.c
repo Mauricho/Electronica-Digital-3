@@ -245,7 +245,7 @@ int main(void)
 }
 
 /**
- * I am put this function for a warning.
+ * I put this function for a warning.
  */
 void _exit(int status) {
     while (1); // Bucle infinito
